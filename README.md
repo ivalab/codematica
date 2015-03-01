@@ -15,15 +15,16 @@ Name | Provides
 -----| --------
 hopper  | Raibert's hopper and variations.
 dcrawler | Discrete crawler (or what I call the Franken-crawler).
+-----| --------
 hexapod | Simple hexapod model (tripod gait).
 hilare | Hilare robot (e.g., wheelchair robot model).
+-----| --------
 kincar | Kinematic car.
-snakeboard | The snakeboard.
 nonhol3kin | Simple standard form 3-state (kinematically) nonholonomic system.
-nonhol5kin | 5-state (kinematically) nonholonomic system. Requires
-second order averaging.
-nonhol3dyn | Simple standard form 3-state (dynamic) nonholonomic system.
-Lifted form of kinematic version.
+nonhol5kin | 5-state (kinematically) nonholonomic system. Requires second order averaging.
+-----| --------
+nonhol3dyn | Simple standard form 3-state (dynamic) nonholonomic system.  Lifted form of kinematic version.
+snakeboard | The snakeboard.
 
 
 Some of the above have known equations of motion, so there should be no
